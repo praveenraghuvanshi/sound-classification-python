@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+opendatasets # kaggle dataset download
+torch # building neural network
+torchaudio # accessing and processing audio 
+librosa # audio processing
