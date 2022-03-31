@@ -6,3 +6,4 @@ torch # building neural network
 torchaudio # accessing and processing audio 
 torchvision # dataset loading
 librosa # audio processing
+shutil # Copy files
